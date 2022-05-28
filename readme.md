@@ -4,3 +4,7 @@ Sisterslab Python egitiminde haftaici soru cozum seanslarinda birlikte cozdugumu
 - [Hafta 1](Hafta_1_Sorular.ipynb)
   - If - else
   - Donguler
+
+- [Hafta 2](Hafta_2_Sorular.ipynb)
+  - Donguler
+  - Donguler ile desenler olusturma
