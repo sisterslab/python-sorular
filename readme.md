@@ -10,5 +10,12 @@ Sisterslab Python egitiminde haftaici soru cozum seanslarinda birlikte cozdugumu
   - Donguler ile desenler olusturma
 
 - [Hafta 3](Hafta_3_Sorular.ipynb)
-  - Fonksiyonlar
-  - Listeler
+  - Fonksiyon
+  - Liste
+
+- [Hafta 4](Hafta_4_Sorular.ipynb)
+  - Fonksiyon
+  - Map
+  - Filter
+  - Tuple
+  - Liste
