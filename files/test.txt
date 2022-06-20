@@ -1,0 +1,1 @@
+Bu dosyayi ilk soruda olusturacaginiz fonksiyonu test etmek icin kullanabilirsiniz!
