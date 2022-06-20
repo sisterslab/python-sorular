@@ -22,5 +22,5 @@ Sisterslab Python egitiminde haftaici soru cozum seanslarinda birlikte cozdugumu
 - [Hafta 5](Hafta_5_Sorular.ipynb)
   - Set
   - Dictionary
-- [Hafta 6](Hafta_6_Sorular.ipynb)   
+- [Hafta 6](Hafta_6_sorular.ipynb)   
   - Dosya islemleri
