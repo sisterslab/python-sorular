@@ -19,3 +19,8 @@ Sisterslab Python egitiminde haftaici soru cozum seanslarinda birlikte cozdugumu
   - Filter
   - Tuple
   - Liste
+- [Hafta 5](Hafta_5_Sorular.ipynb)
+  - Set
+  - Dictionary
+- [Hafta 6](Hafta_6_Sorular.ipynb)   
+  - Dosya islemleri
