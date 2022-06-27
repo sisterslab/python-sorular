@@ -1,0 +1,8 @@
+Kayra Oz, 80, 20, 90
+Baran Sert, 100, 60 ,55
+Burcu Sarac, 40, 50, 25
+Ugur Bas, 45, 65, 15
+Ali Sevi, 54, 75, 85
+Aya Sarar, 25, 45 ,66
+Sare Demir, 85, 85, 90
+Esra Tatar, 25, 44, 100

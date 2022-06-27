@@ -1,0 +1,5 @@
+name: 'asli'
+user: 'dogru_username'
+pass: 'dogru_password'
+bolum: 'matematik'
+courses: ['Calculus', 'Math-Stat', 'Game Theory']
